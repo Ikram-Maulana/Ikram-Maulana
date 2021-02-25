@@ -1,3 +1,18 @@
+### Hello World, I'm Ikram Maulana  👋
+
+## A passionate frontend and backend web developer from Indonesia
+- 🔭 I’m currently working on [DRIFT-ID](https://github.com/DRIFT-ID/drift).
+- 🌱 I’m currently learning Mobile Programming
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Everythink
+- 📫 How to reach me **ikram_maulana@onedrive.web.id**
+
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+
+
 <h1 align="center">Hi 👋, I'm Ikram Maulana</h1>
 <h3 align="center">A passionate frontend and backend web developer from Indonesia</h3>
 

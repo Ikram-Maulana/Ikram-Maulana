@@ -1,6 +1,6 @@
 ### Hello World, I'm Ikram Maulana  👋
 
-<img align="right" alt="GIF" src="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Ikram-Maulana/Ikram-Maulana/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## A passionate frontend and backend web developer from Indonesia
 - 🔭 I’m currently working on [DRIFT-ID](https://github.com/DRIFT-ID/drift).

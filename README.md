@@ -1,49 +1,47 @@
-### Hello World, I'm Ikram Maulana  👋
+![Banner](https://raw.githubusercontent.com/Ikram-Maulana/Ikram-Maulana/master/my-banner.png)
 
-<img align="right" alt="GIF" src="https://github.com/Ikram-Maulana/Ikram-Maulana/blob/master/code.gif?raw=true" width="500" height="320" />
+## Hello, folks! <img src="https://raw.githubusercontent.com/Ikram-Maulana/Ikram-Maulana/master/wave.gif" width="30px">
 
-## A passionate frontend and backend web developer from Indonesia
-- 🔭 I’m currently working on [DRIFT-ID](https://github.com/DRIFT-ID/drift).
-- 🌱 I’m currently learning Mobile Programming
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Everythink
-- 📫 How to reach me **ikram_maulana@onedrive.web.id**
+I am Ikram Maulana, I am a web developer, UI designer, Photographer and Videographer. I am someone who is very interested in the world of IT and the creative industry, I am very happy to learn new things to add insight and feel challenged to learn it.
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="Ikram-Maulana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />](https://instagram.com/ikram_maulana)
+💡 &nbsp;I like to explore new technologies.\
+🎓 &nbsp;I'm currently studying Informatics Engineering at the Muhammadiyah University of Sukabumi.\
+🔭 &nbsp;I’m currently working on [DRIFT-ID](https://github.com/DRIFT-ID/drift).\
+🌱 &nbsp;I’m currently learning Web Development, Mobile Programming and Ethical Hacking.\
+💬 &nbsp;Ask me about ... Programming or Anythink
 
-<br />
 
-### Languages and Tools:
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Databases-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Game-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VersionController-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VersionController-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-AffinityDesigner-informational?style=flat&logo=affinity-designer&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Other-Trello-informational?style=flat&logo=trello&logoColor=white&color=2bbc8a)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][instagram]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][instagram]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][instagram]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][instagram]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][instagram]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][instagram]
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][instagram]
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][instagram]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][instagram]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][instagram]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][instagram]
+### ⚙️ &nbsp;GitHub Analytics
 
-<br />
-<br />
----
+<a href="https://github.com/Ikram-Maulana/Ikram-Maulana">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikram-Maulana&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Ikram-Maulana/Ikram-Maulana">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ikram-Maulana&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ikram GitHub Stats" />
+</a>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### 🤝🏻 &nbsp;Connect with Me
 
-  <img align="left" alt="Ikram-Maulana GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ikram-Maulana&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Ikram Maulana GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikram-maulana" />
-
-</details>
-
-[instagram]: https://instagram.com/ikram_maulana
+<!-- <a href="linkweb"><img src="https://img.shields.io/badge/-linkweb-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/ikram-maulana-54a152217/"><img src="https://img.shields.io/badge/-Ikram%20Maulana-0299FF?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ikram075@ummi.ac.id"><img src="https://img.shields.io/badge/-ikram075@ummi.ac.id-FF0260?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ikram_maulana@onedrive.web.id"><img src="https://img.shields.io/badge/-ikram_maulana@onedrive.web.id-FF0260?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/ikram_maulana"><img src="https://img.shields.io/badge/-@ikram_maulana-2bbc8a?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://dribbble.com/ikram_maulana"><img src="https://img.shields.io/badge/-ikram_maulana-EA02FF?style=flat&logo=Dribbble&logoColor=white"/></a>

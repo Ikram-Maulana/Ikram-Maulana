@@ -44,4 +44,4 @@ I am Ikram Maulana, I am a web developer, UI designer, Photographer and Videogra
 <a href="mailto:ikram075@ummi.ac.id"><img src="https://img.shields.io/badge/-ikram075@ummi.ac.id-FF0260?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:ikram_maulana@onedrive.web.id"><img src="https://img.shields.io/badge/-ikram_maulana@onedrive.web.id-FF0260?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ikram_maulana"><img src="https://img.shields.io/badge/-@ikram_maulana-2bbc8a?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://dribbble.com/ikram_maulana"><img src="https://img.shields.io/badge/-ikram_maulana-EA02FF?style=flat&logo=Dribbble&logoColor=white"/></a>
+<a href="https://dribbble.com/ikram_maulana"><img src="https://img.shields.io/badge/-ikram_maulana-EA02FF?style=flat&logo=dribbble&logoColor=white"/></a>

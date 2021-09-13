@@ -6,7 +6,7 @@ I am Ikram Maulana, I am a web developer, UI designer, Photographer and Videogra
 
 💡 &nbsp;I like to explore new technologies.\
 🎓 &nbsp;I'm currently studying Informatics Engineering at the Muhammadiyah University of Sukabumi.\
-🔭 &nbsp;I’m currently working on [DRIFT-ID](https://github.com/DRIFT-ID/drift).\
+🔭 &nbsp;I'm currently working with [GDSC UMMI](https://github.com/gdsc-ummi) as the creative core team.\
 🌱 &nbsp;I’m currently learning Web Development, Mobile Programming and Ethical Hacking.\
 💬 &nbsp;Ask me about ... Programming or Anythink
 

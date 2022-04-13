@@ -1,18 +1,40 @@
 
-![Banner](https://raw.githubusercontent.com/Ikram-Maulana/Ikram-Maulana/master/my-banner.png)
+![Banner](https://raw.githubusercontent.com/Ikram-Maulana/Ikram-Maulana/master/my-banner.png)  
 
-## Hello, folks! <img src="https://raw.githubusercontent.com/Ikram-Maulana/Ikram-Maulana/master/wave.gif" width="30px">
+## Hello, I'm Ikram Maulana <img src="https://raw.githubusercontent.com/Ikram-Maulana/Ikram-Maulana/master/wave.gif" width="30px">
 
-I am Ikram Maulana, I am a web developer, UI designer, Photographer and Videographer. I am someone who is very interested in the world of IT and the creative industry, I am very happy to learn new things to add insight and feel challenged to learn it.
+A Full-stack web developer and UI designer. I am someone who is very interested in the world of IT and the creative industry, where I can explore and imagine expressing my ideas visually. I am very happy to learn new things to add insight and feel challenged to learn it.
 
-💡   &nbsp;I like to explore new technologies.\
-🎓 &nbsp;I'm currently studying Informatics Engineering at the Muhammadiyah University of Sukabumi.\
-🔭 &nbsp;I'm currently working with [GDSC-UMMI](https://gdsc-ummi.tech) and [Dreamtech](https://github.com/DreamTechTeam).\
-🌱 &nbsp;I’m currently learning Web Development, Ethical Hacking and Cloud Computing.\
-💬 &nbsp;Ask me about ... Programming or Anythink
+```console
+ikram-maulana@github:~$ neofetch
+```
 
+<img align="left" src="https://raw.githubusercontent.com/Ikram-Maulana/Ikram-Maulana/master/code.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
-## 🔧 Technologies & Tools
+```
+ikram-maulana@github
+-------------------------
+🏫 Muhammadiyah University of Sukabumi
+🔎 Main interests in Full Stack Web & UI designer
+🌱 Learning about ReactJS, NestJS and Machine Learning stuff
+🌟 Main languages: Javascript
+🚩 Interested in machine learning and web security
+📷 Love photography and videography
+🎵 Love indie
+💻 Creative at GDSC UMMI
+🤝 Developers at DreamTech
+```
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 🔗 Connect With Me
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikram-maulana-54a152217)&nbsp;
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ikram_maulana)&nbsp;
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikram_maulana@onedrive.web.id)&nbsp;
+  [![Dribbble](https://img.shields.io/badge/Dribbble-EA02FF?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/ikram_maulana)&nbsp;
+  
+## 🔧 Tech Stack
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
@@ -33,20 +55,35 @@ I am Ikram Maulana, I am a web developer, UI designer, Photographer and Videogra
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Other-Notion-informational?style=flat&logo=notion&logoColor=white&color=2bbc8a)
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📊 Github Stats (Expand to View)
 
-<a href="https://github.com/Ikram-Maulana/Ikram-Maulana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikram-Maulana&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ikram-maulana&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
+    <div align="center">
+  <a href="https://github.com/ikram-maulana">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikram-maulana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikram-maulana&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  </a>
+</div>
+</details>
+
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+  
+  ![Ikram Maulana's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ikram-maulana&&theme=react-dark)
+</details>
+
+### 🏆 GitHub Profile Trophy:
+
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ikram-maulana&column=8&theme=algolia&no-frame=true&no-bg=true"/>
 </a>
-<a href="https://github.com/Ikram-Maulana/Ikram-Maulana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ikram-Maulana&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ikram GitHub Stats" />
-</a>
+</p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<!-- <a href="linkweb"><img src="https://img.shields.io/badge/-linkweb-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/ikram-maulana-54a152217/"><img src="https://img.shields.io/badge/-Ikram%20Maulana-0299FF?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ikram075@ummi.ac.id"><img src="https://img.shields.io/badge/-ikram075@ummi.ac.id-FF0260?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:ikram_maulana@onedrive.web.id"><img src="https://img.shields.io/badge/-ikram_maulana@onedrive.web.id-FF0260?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/ikram_maulana"><img src="https://img.shields.io/badge/-@ikram_maulana-2bbc8a?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://dribbble.com/ikram_maulana"><img src="https://img.shields.io/badge/-ikram_maulana-EA02FF?style=flat&logo=dribbble&logoColor=white"/></a>
+![snake gif](https://github.com/ikram-maulana/ikram-maulana/blob/output/github-contribution-grid-snake.gif)

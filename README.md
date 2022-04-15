@@ -26,6 +26,8 @@ ikram-maulana@github
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -51,7 +53,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/04/2022 18:41:35 UTC
+ Last Updated on 15/04/2022 06:17:53 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 Connect With Me

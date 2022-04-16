@@ -76,6 +76,7 @@ No Activity Tracked This Week
 ![Tailwind](https://img.shields.io/badge/tailwind-323330?style=for-the-badge&logo=tailwindcss&logoColor=4ab0b4)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-f69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-5299c7?style=for-the-badge&logo=webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/babel-323330?style=for-the-badge&logo=babel&logoColor=eeda7c)

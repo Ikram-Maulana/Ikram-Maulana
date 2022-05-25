@@ -46,15 +46,15 @@ ikram-maulana@github
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               1 hr 32 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 32 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 24/05/2022 18:47:32 UTC
+ Last Updated on 25/05/2022 18:46:06 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 Connect With Me

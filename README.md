@@ -27,7 +27,7 @@ ikram-maulana@github
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm an Early 🐤** 
 
@@ -57,7 +57,7 @@ Linux                    15 hrs 21 mins      ███████████�
 ```
 
 
- Last Updated on 04/06/2022 18:40:24 UTC
+ Last Updated on 05/06/2022 18:41:14 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 Connect With Me

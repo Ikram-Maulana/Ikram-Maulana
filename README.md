@@ -1,7 +1,7 @@
 
 ![Banner](https://raw.githubusercontent.com/Ikram-Maulana/Ikram-Maulana/master/my-banner.png)  
 
-## Hello, I'm Ikram Maulana <img src="https://raw.githubusercontent.com/Ikram-Maulana/Ikram-Maulana/master/wave.gif" width="30px">
+## Hello, I'm Ikram Maulana 👋
 
 A Full-stack web developer and UI designer. I am someone who is very interested in the world of IT and the creative industry, where I can explore and imagine expressing my ideas visually. I am very happy to learn new things to add insight and feel challenged to learn it.
 

@@ -71,10 +71,12 @@ Linux                    52 mins             ███████████�
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E415D?style=for-the-badge&logo=python&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-c96195?style=for-the-badge&logo=sass&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-6c70a3?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🧩 Libraries & Framework
+![ReactJS](https://img.shields.io/badge/ReactJS-040404?style=for-the-badge&logo=react&logoColor=7adaf7)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwind-323330?style=for-the-badge&logo=tailwindcss&logoColor=4ab0b4)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -90,6 +92,7 @@ Linux                    52 mins             ███████████�
 ### 🗄️ Databases and cloud hosting
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005d88?style=for-the-badge&logo=mysql&logoColor=00f)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-010101?style=for-the-badge&logo=notion&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-34b2bb?style=for-the-badge&logo=netlify&logoColor=white)
 ![Repl.It](https://img.shields.io/badge/Replit-0D101E?style=for-the-badge&logo=Replit&logoColor=white)
@@ -103,6 +106,7 @@ Linux                    52 mins             ███████████�
 ### 💻 Workspace
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Hackintosh](https://img.shields.io/badge/Hackintosh-5e5e5e?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 📊 Github Stats (Expand to View)
 

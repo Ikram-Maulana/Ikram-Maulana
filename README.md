@@ -77,6 +77,7 @@ ikram-maulana@github
 ### 💻 Workspace
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2-0078D6?style=for-the-badge&logo=linux&logoColor=white)
 ![Hackintosh](https://img.shields.io/badge/Hackintosh-5e5e5e?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 📊 Github Stats (Expand to View)

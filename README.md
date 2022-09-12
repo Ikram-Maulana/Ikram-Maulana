@@ -81,6 +81,7 @@ Windows                  28 mins             ░░░░░░░░░░░�
 
 ### 🧩 Libraries & Framework
 ![ReactJS](https://img.shields.io/badge/ReactJS-040404?style=for-the-badge&logo=react&logoColor=7adaf7)
+![NextJS](https://img.shields.io/badge/NEXTJS-040404?style=for-the-badge&logo=vercel&logoColor=7adaf7)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwind-323330?style=for-the-badge&logo=tailwindcss&logoColor=4ab0b4)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)

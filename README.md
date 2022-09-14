@@ -100,6 +100,7 @@ Windows                  1 hr 12 mins        █░░░░░░░░░░�
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-010101?style=for-the-badge&logo=notion&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-34b2bb?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-010101?style=for-the-badge&logo=vercel&logoColor=white)
 ![Repl.It](https://img.shields.io/badge/Replit-0D101E?style=for-the-badge&logo=Replit&logoColor=white)
 
 ### 🧑🏻‍💻 Software and tools

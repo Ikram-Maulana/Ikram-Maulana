@@ -93,6 +93,7 @@ Windows                  44 mins             █░░░░░░░░░░�
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-e54a29?style=for-the-badge&logo=codeigniter&logoColor=eeda7c)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-323330?style=for-the-badge&logo=express&logoColor=eeda7c)
 ![NestJS](https://img.shields.io/badge/nestjs-323330?style=for-the-badge&logo=nestjs&logoColor=e0234e)
+![FLASK](https://img.shields.io/badge/flask-323330?style=for-the-badge&logo=flask&logoColor=e0234e)
 
 ### 🗄️ Databases and cloud hosting
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)

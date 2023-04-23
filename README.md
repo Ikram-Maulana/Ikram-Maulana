@@ -3,7 +3,7 @@
 
 ## Hello, I'm Ikram Maulana 👋
 
-A Full-stack web developer and UI designer. I am someone who is very interested in the world of IT and the creative industry, where I can explore and imagine expressing my ideas visually. I am very happy to learn new things to add insight and feel challenged to learn it.
+An undergraduate student who is passionate about Full Stack Web Development and UI Design. I am someone who is very interested and enjoys exploring the world of web programming and UI designing, where besides I can create UI visualizations, I can implement UI into lines of code along with backend functions into a website.
 
 ```console
 ikram-maulana@github:~$ neofetch
@@ -16,13 +16,12 @@ ikram-maulana@github
 -------------------------
 🏫 Muhammadiyah University of Sukabumi
 🔎 Main interests in Full Stack Web & UI designer
-🌱 Learning about ReactJS, NestJS and Machine Learning stuff
+🌱 Learning about ReactJS, Next.js, tRpc and Prisma
 🌟 Main languages: Javascript
-🚩 Interested in machine learning and web security
+🚩 Interested in T3-Stack
 📷 Love photography and videography
 🎵 Love indie
-💻 Creative at GDSC UMMI
-🤝 Developers at DreamTech
+💻 Full Stack Web Developer at Daunnesia
 ```
 <br>
 
@@ -78,24 +77,22 @@ Windows                  36 hrs 46 mins      ███████████�
 
 ### 🧩 Libraries & Framework
 ![ReactJS](https://img.shields.io/badge/ReactJS-040404?style=for-the-badge&logo=react&logoColor=7adaf7)
-![NextJS](https://img.shields.io/badge/NEXTJS-040404?style=for-the-badge&logo=vercel&logoColor=7adaf7)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.JS](https://img.shields.io/badge/NEXTJS-040404?style=for-the-badge&logo=next.js&logoColor=7adaf7)
 ![Tailwind](https://img.shields.io/badge/tailwind-323330?style=for-the-badge&logo=tailwindcss&logoColor=4ab0b4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-f69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-5299c7?style=for-the-badge&logo=webpack&logoColor=white)
-![Babel](https://img.shields.io/badge/babel-323330?style=for-the-badge&logo=babel&logoColor=eeda7c)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-e54a29?style=for-the-badge&logo=codeigniter&logoColor=eeda7c)
+![Laravel](https://img.shields.io/badge/Laravel-e54a29?style=for-the-badge&logo=laravel&logoColor=eeda7c)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-323330?style=for-the-badge&logo=express&logoColor=eeda7c)
-![NestJS](https://img.shields.io/badge/nestjs-323330?style=for-the-badge&logo=nestjs&logoColor=e0234e)
-![FLASK](https://img.shields.io/badge/flask-323330?style=for-the-badge&logo=flask&logoColor=e0234e)
+![AstroJS](https://img.shields.io/badge/AstroJS-323330?style=for-the-badge&logo=astro&logoColor=FFFFFF)
+![FLASK](https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask&logoColor=e0234e)
 
 ### 🗄️ Databases and cloud hosting
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005d88?style=for-the-badge&logo=mysql&logoColor=00f)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005d88?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![Planet Scale](https://img.shields.io/badge/PlanetScale-4ea94b?style=for-the-badge&logo=planetscale&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-010101?style=for-the-badge&logo=notion&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-34b2bb?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-010101?style=for-the-badge&logo=vercel&logoColor=white)
@@ -103,7 +100,7 @@ Windows                  36 hrs 46 mins      ███████████�
 
 ### 🧑🏻‍💻 Software and tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-purple?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 

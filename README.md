@@ -1,5 +1,5 @@
 
-![IkramBanner](https://raw.githubusercontent.com/Ikram-Maulana/Ikram-Maulana/master/ikram-banner.png)  
+![IkramBanner](https://res.cloudinary.com/ikram20/image/upload/v1682469191/ikram-banner_nyp0gf.png)
 
 ## Hello, I'm Ikram Maulana 👋
 

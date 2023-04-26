@@ -9,7 +9,7 @@ An undergraduate student who is passionate about Full Stack Web Development and 
 ikram-maulana@github:~$ neofetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/Ikram-Maulana/Ikram-Maulana/master/code.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+<img align="left" src="https://res.cloudinary.com/ikram20/image/upload/v1682469785/code_dgimfk.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
 ```
 ikram-maulana@github

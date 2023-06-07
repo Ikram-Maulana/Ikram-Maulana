@@ -130,7 +130,7 @@ Windows                  10 hrs 2 mins       ███████████�
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
   
-  ![Ikram Maulana's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ikram-maulana&&theme=react-dark)
+  ![Ikram Maulana's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph??username=ikram-maulana&&theme=react-dark)
 </details>
 
 ### 🏆 GitHub Profile Trophy:

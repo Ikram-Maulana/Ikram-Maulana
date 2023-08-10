@@ -141,4 +141,4 @@ Windows                  29 hrs 43 mins      ███████████�
 </a>
 </p>
 
-![snake gif](https://github.com/ikram-maulana/ikram-maulana/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ikram-maulana/ikram-maulana/blob/output/github-snake.svg)

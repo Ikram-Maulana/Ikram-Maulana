@@ -9,7 +9,7 @@ A passionate Full Stack Web Development and UI Design. I am someone who is very 
 ikram-maulana@github:~$ neofetch
 ```
 
-<img align="left" src="https://res.cloudinary.com/ikram20/image/upload/v1682469785/code_dgimfk.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+<img align="left" src="https://res.cloudinary.com/ikram20/image/upload/v1702984390/code_w6zyvt.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="350" /> 
 
 ```
 ikram-maulana@github
@@ -20,7 +20,7 @@ ikram-maulana@github
 🌟 Main languages: Javascript
 🚩 Interested in T3-Stack
 📷 Love photography and videography
-🎵 Love indie
+🎵 Love indonesian pop music
 💻 Full Stack Web Developer at Daunnesia
 ```
 <br>

@@ -3,7 +3,7 @@
 
 ## Hello, I'm Ikram Maulana 👋
 
-An undergraduate student who is passionate about Full Stack Web Development and UI Design. I am someone who is very interested and enjoys exploring the world of web programming and UI designing, where besides I can create UI visualizations, I can implement UI into lines of code along with backend functions into a website.
+A passionate Full Stack Web Development and UI Design. I am someone who is very interested and enjoys exploring the world of web programming and UI designing, where besides I can create UI visualizations, I can implement UI into lines of code along with backend functions into a website.
 
 ```console
 ikram-maulana@github:~$ neofetch
@@ -60,7 +60,7 @@ Windows                  4 hrs 36 mins       ██████░░░░░�
 <!--END_SECTION:waka-->
 
 ## 🔗 Connect With Me
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikram-maulana-54a152217)&nbsp;
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikram-maulana)&nbsp;
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ikram_maulana)&nbsp;
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikram_maulana@onedrive.web.id)&nbsp;
   [![Dribbble](https://img.shields.io/badge/Dribbble-EA02FF?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/ikram_maulana)&nbsp;
@@ -83,6 +83,7 @@ Windows                  4 hrs 36 mins       ██████░░░░░�
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=white)
+![BUN](https://img.shields.io/badge/bun-323330?style=for-the-badge&logo=bun&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-f69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-e54a29?style=for-the-badge&logo=laravel&logoColor=eeda7c)
@@ -97,11 +98,11 @@ Windows                  4 hrs 36 mins       ██████░░░░░�
 ![Notion](https://img.shields.io/badge/Notion-010101?style=for-the-badge&logo=notion&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-34b2bb?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-010101?style=for-the-badge&logo=vercel&logoColor=white)
-![Repl.It](https://img.shields.io/badge/Replit-0D101E?style=for-the-badge&logo=Replit&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-010101?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### 🧑🏻‍💻 Software and tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-purple?style=for-the-badge&logo=Insomnia&logoColor=white)
+![Insomnium](https://img.shields.io/badge/Insomnium-purple?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 

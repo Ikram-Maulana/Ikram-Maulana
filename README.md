@@ -16,17 +16,20 @@ ikram-maulana@github
 -------------------------
 🏫 Muhammadiyah University of Sukabumi
 🔎 Main interests in Full Stack Web & UI designer
-🌱 Learning about ReactJS, Next.js, tRpc and Prisma
-🌟 Main languages: Javascript
+🌱 Learning about VueJS, Next.js, tRPC and Drizzle ORM
+🌟 Main languages: Typescript
 🚩 Interested in T3-Stack
 📷 Love photography and videography
-🎵 Love indonesian pop music
+🎧 Love indonesian pop music
 💻 Full Stack Web Developer at Daunnesia
 ```
 <br>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C560%20hrs%2018%20mins-blue)
+![GitHub stars](https://img.shields.io/github/stars/ikram-maulana.svg?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ikram-maulana/ikram-maulana.svg?style=social)
+[![GitHub: ikram-maulana](https://img.shields.io/github/followers/ikram-maulana?label=follow&style=social)](https://github.com/ikram-maulana)
 
 **I'm an Early 🐤** 
 

@@ -74,19 +74,19 @@ Last Updated on 27/01/2024 18:34:13 UTC
 ### 👨‍💻 Programming languages
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,php,py&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,php,py" />
 </a>
 
 ### 🧩 Libraries & Framework
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,laravel,express,astro,solidjs,flask,tailwind,bootstrap,vite,nodejs,bun&perline=11" />
+<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,laravel,express,astro,solidjs,flask,tailwind,bootstrap,vite,nodejs,bun" />
 </a>
 
 ### 🗄️ Databases and cloud hosting
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,sqlite,planetscale,prisma,netlify,vercel,cloudflare,sentry&perline=11" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,sqlite,planetscale,prisma,netlify,vercel,cloudflare,sentry" />
 </a>
 
 ### 🧑🏻‍💻 Software and tools
@@ -97,10 +97,9 @@ Last Updated on 27/01/2024 18:34:13 UTC
 
 ### 💻 Workspace
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![WSL2](https://img.shields.io/badge/WSL2-0078D6?style=for-the-badge&logo=linux&logoColor=white)
-![Hackintosh](https://img.shields.io/badge/Hackintosh-5e5e5e?style=for-the-badge&logo=apple&logoColor=white)
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux&perline=11" />
+</a>
 
 ### 📊 Github Stats (Expand to View)
 

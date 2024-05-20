@@ -5,7 +5,7 @@
 A passionate Full Stack Web Development and UI Design. I am someone who is very interested and enjoys exploring the world of web programming and UI designing, where besides I can create UI visualizations, I can implement UI into lines of code along with backend functions into a website.
 
 ```console
-ikram-maulana@github:~$ neofetch
+ikram-maulana@github:~$ fastfetch
 ```
 
 <img align="left" src="code.gif" alt="Ikram Maulana GIF" width="350" height="204" style="border-radius: 6px; overflow: hidden;" />

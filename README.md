@@ -26,7 +26,7 @@ ikram-maulana@github
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C799%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C799%20hrs%2058%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -44,14 +44,16 @@ ikram-maulana@github
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    34 mins             █████████████████████████   100.00 % 
+Other                    38 mins             █████████████████░░░░░░░░   66.82 % 
+TypeScript               19 mins             ████████░░░░░░░░░░░░░░░░░   33.08 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/06/2024 18:37:26 UTC
+ Last Updated on 22/06/2024 18:36:02 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 Connect With Me

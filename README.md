@@ -1,131 +1,119 @@
 ![IkramBanner](ikrambanner.webp)
 
-## Hello, I'm Ikram Maulana 👋
+## Hi I'm Ikram 👋
 
-A passionate Full Stack Web Development and UI Design. I am someone who is very interested and enjoys exploring the world of web programming and UI designing, where besides I can create UI visualizations, I can implement UI into lines of code along with backend functions into a website.
+[![Linkedin Badge](https://img.shields.io/badge/-ikram--maulana-blue?style=flat&logo=Linkedin&logoColor=white&link=https://links.ikrammaulana.my.id/s/linkedin)](https://links.ikrammaulana.my.id/s/linkedin)
+[![Instagram Badge](https://img.shields.io/badge/-@ikram__maulana-purple?style=flat&logo=instagram&logoColor=white&link=https://links.ikrammaulana.my.id/s/instagram)](https://links.ikrammaulana.my.id/s/instagram)
+[![Gmail Badge](https://img.shields.io/badge/-ikrammaulana-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hey@ikrammaulana.my.id)](mailto:hey@ikrammaulana.my.id)
+![Profile Views](https://komarev.com/ghpvc/?username=Ikram-Maulana)
+
+A passionate Full Stack Web Developer who enjoys creating innovative products on the web. I am someone who is very interested in exploring the world of web programming, and contributing to open source projects. Thanks for visiting and I'd love to [connect](https://links.ikrammaulana.my.id/s/linkedin)!
 
 ```console
 ikram-maulana@github:~$ fastfetch
 ```
 
-<img align="left" src="code.gif" alt="Ikram Maulana GIF" width="350" height="204" style="border-radius: 6px; overflow: hidden;" />
-
-```
+```console
 ikram-maulana@github
 -------------------------
-🏫 Muhammadiyah University of Sukabumi
-🔎 Main interests in Full Stack Web & UI designer
-🌱 Learning about VueJS, Next.js, tRPC and Drizzle ORM
+🎓 Muhammadiyah University of Sukabumi
+🔎 Main interests in Full Stack Web
+🌱 Learning about Hono, Next.js, tRPC and Drizzle ORM
 🌟 Main languages: Typescript
 🚩 Interested in T3-Stack
 📷 Love photography and videography
 🎧 Love indonesian pop music
-💻 Full Stack Web Developer at Daunnesia
+📧 hey@ikrammaulana.my.id
 ```
 
-<br>
+## Stats 📈
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C848%20hrs%2048%20mins-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                3269 commits        ████████░░░░░░░░░░░░░░░░░   33.69 % 
-🌆 Daytime                3866 commits        ██████████░░░░░░░░░░░░░░░   39.85 % 
-🌃 Evening                2465 commits        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-🌙 Night                  102 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+🌞 Morning                3269 commits        ████████░░░░░░░░░░░░░░░░░   33.69 %
+🌆 Daytime                3866 commits        ██████████░░░░░░░░░░░░░░░   39.85 %
+🌃 Evening                2465 commits        ██████░░░░░░░░░░░░░░░░░░░   25.41 %
+🌙 Night                  102 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages: 
-TypeScript               19 hrs 51 mins      ███████████████████░░░░░░   77.40 % 
-JSON                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+💬 Programming Languages:
+TypeScript               19 hrs 51 mins      ███████████████████░░░░░░   77.40 %
+JSON                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 
-💻 Operating System: 
-Windows                  25 hrs 39 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  25 hrs 39 mins      █████████████████████████   100.00 %
 ```
 
+Last Updated on 07/07/2024 18:36:07 UTC
 
- Last Updated on 07/07/2024 18:36:07 UTC
 <!--END_SECTION:waka-->
 
-## 🔗 Connect With Me
+## Technologies & Tools 🛠️
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230e76a8.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://links.ikrammaulana.my.id/linkedin)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23e4405f.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://links.ikrammaulana.my.id/instagram)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-808080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@ikrammaulana.my.id)&nbsp;
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://links.ikrammaulana.my.id/dribbble)&nbsp;
-
-## 🔧 Tech Stack
-
-### 👨‍💻 Programming languages
+### Programming languages
 
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,php,py" />
 </a>
 
-### 🧩 Libraries & Framework
+### Libraries & Framework
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,laravel,express,astro,solidjs,flask,tailwind,bootstrap,vite,nodejs,bun" />
-</a>
+<img src="https://skillicons.dev/icons?i=react,next,laravel,express,tailwind">
 
-### 🗄️ Databases and cloud hosting
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,sqlite,planetscale,prisma,netlify,vercel,cloudflare,sentry" />
-</a>
-
-### 🧑🏻‍💻 Software and tools
+### Databases and cloud hosting
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&perline=11" />
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,redis,vercel,cloudflare" />
 </a>
 
-### 💻 Workspace
+### Software and tools
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=github,vscode,figma&perline=11" />
 </a>
 
-### 📊 Github Stats (Expand to View)
+### Workspace
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux,windows&perline=11" />
+</a>
+
+## Activity 📊
 
 <details>
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ikram-maulana&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
-    <div align="center">
-  <a href="https://github.com/ikram-maulana">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikram-maulana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikram-maulana&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-  </a>
-</div>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikram-maulana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikram-maulana&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
+  <summary><b>☄️ Github Streaks</b></summary>
 
-![Ikram Maulana's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ikram-maulana&theme=react-dark)
-
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ikram-maulana&hide_border=true" />
 </details>
 
-### 🏆 GitHub Profile Trophy:
+<details>
+  <summary><b>🔥 Github Activity</b></summary>
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ikram-maulana&column=8&theme=algolia&no-frame=true&no-bg=true"/>
-</a>
-</p>
+  <br />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ikram-maulana&theme=github-light" />
+</details>
 
 ![snake gif](https://github.com/ikram-maulana/ikram-maulana/blob/output/github-snake.svg)

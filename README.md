@@ -115,7 +115,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ### Workspace
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,windows&perline=11" />
+<img src="https://skillicons.dev/icons?i=ubuntu,debian,windows&perline=11" />
 </a>
 
 ## Activity 📊

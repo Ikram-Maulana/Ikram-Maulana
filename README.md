@@ -98,25 +98,25 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ### Libraries & Framework
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,next,laravel,express,tailwind">
+<img src="https://skillicons.dev/icons?i=react,vue,next,laravel,express,tailwind,bootstrap">
 </a>
 
 ### Databases and cloud hosting
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,redis,vercel,cloudflare" />
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,redis,vercel,cloudflare" />
 </a>
 
 ### Software and tools
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=github,vscode,figma&perline=11" />
+<img src="https://skillicons.dev/icons?i=github,vscode,postman,figma&perline=11" />
 </a>
 
 ### Workspace
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=ubuntu,debian,windows&perline=11" />
+<img src="https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=11" />
 </a>
 
 ## Activity 📊

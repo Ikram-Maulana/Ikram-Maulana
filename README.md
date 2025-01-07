@@ -29,7 +29,7 @@ ikram-maulana@github
 ## Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C302%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C301%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.8%20million%20lines%20of%20code-blue)
 
@@ -84,7 +84,7 @@ Blade                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2025 01:03:59 UTC
+ Last Updated on 07/01/2025 01:02:11 UTC
 <!--END_SECTION:waka-->
 
 ## Technologies & Tools 🛠️

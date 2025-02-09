@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ikram--maulana-blue?style=flat&logo=Linkedin&logoColor=white&link=https://links.ikrammaulana.my.id/s/linkedin)](https://links.ikrammaulana.my.id/s/linkedin)
 [![Instagram Badge](https://img.shields.io/badge/-@ikram__maulana-purple?style=flat&logo=instagram&logoColor=white&link=https://links.ikrammaulana.my.id/s/instagram)](https://links.ikrammaulana.my.id/s/instagram)
-[![Gmail Badge](https://img.shields.io/badge/-ikrammaulana-c14438?style=flat&logo=Gmail&logoColor=white&link=https://links.ikrammaulana.my.id/s/email)](https://links.ikrammaulana.my.id/s/email)
+[![Gmail Badge](https://img.shields.io/badge/-ikrammaulana-c14438?style=flat&logo=Gmail&logoColor=white&link=https://links.ikrammaulana.my.id/s/email)](mailto:hey@ikram.is-a.dev)
 ![Profile Views](https://komarev.com/ghpvc/?username=Ikram-Maulana)
 
 A passionate Full Stack Web Developer who enjoys creating innovative products on the web. I am someone who is very interested in exploring the world of web programming, and contributing to open source projects. Thanks for visiting and I'd love to [connect](https://links.ikrammaulana.my.id/s/linkedin)!

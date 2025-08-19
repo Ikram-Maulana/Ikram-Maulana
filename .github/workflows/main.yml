@@ -3,20 +3,22 @@ name: Generate Snake
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 00:00AM UTC
-    - cron: "0 0 * * *"
+    # Weekly on Sunday at 00:00 UTC
+    - cron: "0 0 * * 0"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: Platane/snk@v3
+      - name: Generate Snake GIF & SVGs
+        uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -24,16 +26,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - run: git status
+      - name: Check git status
+        run: git status
 
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.8.0
+      - name: Push changes to Master
+        uses: ad-m/github-push-action@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
-          force: true
+          force: false # Set to true only if needed (e.g., history rewrite)
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

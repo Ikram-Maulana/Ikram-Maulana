@@ -29,28 +29,28 @@ ikram-maulana@github
 ## Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C113%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C187%20hrs%2049%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.18%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.66%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3904 commits        █████████░░░░░░░░░░░░░░░░   35.18 % 
-🌆 Daytime                4049 commits        █████████░░░░░░░░░░░░░░░░   36.49 % 
-🌃 Evening                3023 commits        ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-🌙 Night                  121 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+🌞 Morning                4693 commits        █████████░░░░░░░░░░░░░░░░   35.13 % 
+🌆 Daytime                4942 commits        █████████░░░░░░░░░░░░░░░░   36.99 % 
+🌃 Evening                3597 commits        ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+🌙 Night                  127 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1365 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Tuesday                  1621 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Wednesday                1779 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Thursday                 1736 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Friday                   1838 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Saturday                 1309 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Sunday                   1449 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Monday                   1547 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Tuesday                  1909 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Wednesday                2253 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Thursday                 2176 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Friday                   2226 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Saturday                 1560 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Sunday                   1688 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
 ```
 
 
@@ -60,14 +60,14 @@ Sunday                   1449 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               29 hrs 36 mins      █████████████░░░░░░░░░░░░   51.46 % 
-JSON                     11 hrs 4 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Markdown                 4 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Other                    3 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-YAML                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+TypeScript               51 hrs 20 mins      █████████████████░░░░░░░░   69.23 % 
+JSON                     7 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Markdown                 4 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Other                    2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Docker                   1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 💻 Operating System: 
-Linux                    57 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    74 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,7 +83,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2026 18:02:01 UTC
+ Last Updated on 05/07/2026 18:00:37 UTC
 <!--END_SECTION:waka-->
 
 ## Technologies & Tools 🛠️

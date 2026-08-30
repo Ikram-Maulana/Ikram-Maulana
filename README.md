@@ -29,30 +29,30 @@ ikram-maulana@github
 ## Stats 📈
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C343%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C426%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-845%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-927%20hrs%2042%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.99%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.88%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7411 commits        █████████░░░░░░░░░░░░░░░░   35.06 % 
-🌆 Daytime                7681 commits        █████████░░░░░░░░░░░░░░░░   36.34 % 
-🌃 Evening                5876 commits        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-🌙 Night                  171 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+🌞 Morning                9961 commits        █████████░░░░░░░░░░░░░░░░   34.83 % 
+🌆 Daytime                10422 commits       █████████░░░░░░░░░░░░░░░░   36.44 % 
+🌃 Evening                8014 commits        ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+🌙 Night                  205 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   2414 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Tuesday                  2776 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Wednesday                3320 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Thursday                 3226 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Friday                   4099 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Saturday                 2458 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Sunday                   2846 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Monday                   3451 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Tuesday                  3726 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Wednesday                4443 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Thursday                 4096 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Friday                   5700 commits        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Saturday                 3341 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Sunday                   3845 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
 ```
 
 
@@ -62,54 +62,56 @@ Sunday                   2846 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               15 hrs 2 mins       ███████████░░░░░░░░░░░░░░   42.53 % 
-Markdown                 6 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-YAML                     3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Other                    2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-JavaScript               1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+TypeScript               27 hrs 23 mins      █████████████░░░░░░░░░░░░   50.18 % 
+Markdown                 7 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+JSON                     5 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+YAML                     3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+JavaScript               3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 💻 Operating System: 
-Linux                    35 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    54 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 55 mins (93.09%)
+⏱ AI Coding Time: 51 hrs (93.45%)
 
-✍️ 975 lines written by AI, 174 lines written by hand (84.86% AI-written)
+✍️ 4,762 lines written by AI, 774 lines written by hand (86.02% AI-written)
 
-🔤 228,985,732 Input Tokens, 1,396,414 Output Tokens
+🔤 473,317,864 Input Tokens, 3,617,378 Output Tokens
 
-💵 $1168.97 Estimated AI Cost This Week
+💵 $1741.04 Estimated AI Cost This Week
 
-🧠 2511 AI Sessions, 272 AI Prompts
+🧠 4278 AI Sessions, 878 AI Prompts
 
-Deepseek                 891 lines           █████████████████████░░░░   84.62 % 
-OMP                      162 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+OMP                      4,762 lines         █████████████████████████   100.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.86% of written lines came from AI
-📝 Concise Prompter — average 364 characters per prompt
+🤖 AI-Driven — 86.02% of written lines came from AI
+📚 Verbose Prompter — average 7,332 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 16.3% of changed lines were hand-edited
+🚀 High AI Trust — 22.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               56 repos            █████████████░░░░░░░░░░░░   52.83 % 
+TypeScript               58 repos            ██████████████░░░░░░░░░░░   54.72 % 
 Blade                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Vue                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 
 
 
 
- Last Updated on 16/08/2026 17:19:10 UTC
+ Last Updated on 30/08/2026 19:41:26 UTC
 <!--END_SECTION:waka-->
 
 ## Technologies & Tools 🛠️

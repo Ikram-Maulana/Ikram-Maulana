@@ -33,9 +33,9 @@ If you want to talk shop, find me on [LinkedIn](https://www.linkedin.com/in/ikra
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C696%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C740%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C202%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C249%20hrs%203%20mins-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
